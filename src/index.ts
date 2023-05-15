@@ -1,2 +1,1 @@
-export * from "./listings";
-export * from "./pricing"
+export * from "./triggers";
